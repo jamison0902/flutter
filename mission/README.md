@@ -1,16 +1,16 @@
-# mission
+## Aplicativo Explore Mundo
 
-A new Flutter project.
+Aplicativo de visualização de informações e avaliação sobre uma determinada localidade
 
-## Getting Started
+![image](mission.png)
 
-This project is a starting point for a Flutter application.
+<hr>
 
-A few resources to get you started if this is your first Flutter project:
+Procedimentos para utilizar o aplicativo:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+flutter pub get
+flutter run
+```
+<hr>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
